@@ -1,0 +1,19 @@
+---
+layout: post
+title: English Spanish learn words sentences 509 
+youtubeId: aUTTF_O3-T0
+---
+ 
+ 
+Helps to learn Spanish words and sentences for English speakers.
+
+Opportunitiy to repeat the words sentences. 
+
+Practice Spanish language. 
+ 
+How to learn Spanish words and sentences for English speakers 
+ 
+{% include youtubePlayer.html id=page.youtubeId %}
+ 
+ 
+{% include analytics.html %}
