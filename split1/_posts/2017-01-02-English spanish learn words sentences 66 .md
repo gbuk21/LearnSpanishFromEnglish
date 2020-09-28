@@ -1,7 +1,7 @@
 ---
 layout: post
 title: English Spanish learn words sentences 66 
-youtubeId: W35oXNGQmTw
+youtubeId: itr39tB_jHM
 ---
  
  
@@ -11,9 +11,9 @@ Opportunitiy to repeat the words sentences.
 
 Practice Spanish language. 
  
+10 minutes practice every day. 
+ 
 How to learn Spanish words and sentences for English speakers 
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
- 
-{% include analytics.html %}
