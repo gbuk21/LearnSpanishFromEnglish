@@ -17,4 +17,4 @@ How to learn Spanish words and sentences for English speakers
  
 {% include youtubePlayer.html id=page.youtubeId %}
 
- {% post_url split1/_posts/2015-11-16-English spanish learn words sentences 480 .md %}
+ {% link /split1/_posts/2015-11-16-English spanish learn words sentences 480 .md %}
