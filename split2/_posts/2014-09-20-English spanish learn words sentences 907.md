@@ -10,3 +10,6 @@ Practice Spanish language.
 How to learn Spanish words and sentences for English speakers
 
 <iframe width="891" height="501" src="https://www.youtube.com/embed/videoseries?list=PLO794kREfZK1fR0kq7q92DMzwY4jhv_cA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+[Next]({{ site.baseurl }}{% link  split2/_posts/2014-11-17-English spanish learn words sentences 849 .md%})
+ 
